@@ -14,7 +14,7 @@
 <img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
 <img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
 <img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
-<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />  
+<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />       
 
 
 ## 🌐Socials
