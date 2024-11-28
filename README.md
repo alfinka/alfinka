@@ -17,7 +17,9 @@
 <img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
 
 
-  ## 🌐Socials
+
+
+## 🌐Socials
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://sk.pinterest.com/vita_academy_slovakia/)
 
 # 💻Tech Stack
