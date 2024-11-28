@@ -1,9 +1,11 @@
 # 💫About Me :
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
+👋 Hi, I’m 
+👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS
+🌱 I’m currently learning 
+💞️ I’m looking to collaborate on ...
+📫 How to reach me: 
+😄 Pronouns: ...
+⚡ Fun fact: ...
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
