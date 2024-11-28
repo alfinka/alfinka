@@ -1,6 +1,6 @@
 # 💫About Me :
-👋 Hi, I’m 
-👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS
+•👋 Hi, I’m 
+•👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS
 🌱 I’m currently learning 
 💞️ I’m looking to collaborate on ...
 📫 How to reach me: 
