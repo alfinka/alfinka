@@ -5,7 +5,14 @@
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
-
+# Languages, Tools and Frameworks   
+<img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
+<img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
+<img align="left" alt="java" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-java.png" />
+<img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
+<img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
+<img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
+<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
 ## 🌐Socials
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://sk.pinterest.com/vita_academy_slovakia/) 
 
