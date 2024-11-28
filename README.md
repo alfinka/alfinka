@@ -1,11 +1,11 @@
 # 💫About Me :
-•👋 Hi, I’m 
-•👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS
-🌱 I’m currently learning 
-💞️ I’m looking to collaborate on ...
-📫 How to reach me: 
-😄 Pronouns: ...
-⚡ Fun fact: ...
+•👋 Hi, I’m   
+•👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS  
+🌱 I’m currently learning   
+💞️ I’m looking to collaborate on ...  
+📫 How to reach me:   
+😄 Pronouns: ...  
+⚡ Fun fact: ...  
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
@@ -14,9 +14,7 @@
 <img align="left" alt="javascript" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-javascript.png" />
 <img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
 <img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
-<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />
-
-
+<img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />  
 
 
 ## 🌐Socials
