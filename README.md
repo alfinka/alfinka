@@ -6,6 +6,7 @@
 📫 How to reach me:   
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
+![image](https://github.com/user-attachments/assets/cd1e1988-a7a9-4742-bc28-ca531c4669e1)
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
