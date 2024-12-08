@@ -1,6 +1,6 @@
 # 💫About Me :
 👋 Hi, I’m @alfinka 
-👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS  
+👀 I’m interested in MySQL, Python, ChatGPT, Geminy, Copilot, C/C++, R, PHP, HTML/CSS  
 🌱 I’m currently learning  Python 
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me:   
@@ -13,7 +13,6 @@
 
 > :bulb: **Tip:** Remember to appreciate the little things in life.
 
-![image](https://github.com/user-attachments/assets/cd1e1988-a7a9-4742-bc28-ca531c4669e1)
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
