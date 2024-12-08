@@ -1,7 +1,7 @@
 # 💫About Me :
-👋 Hi, I’m   
+👋 Hi, I’m @alfinka 
 👀 I’m interested in Java, Python, C/C++, R, PHP, HTML/CSS  
-🌱 I’m currently learning   
+🌱 I’m currently learning  Python 
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me:   
 😄 Pronouns: ...  
