@@ -6,7 +6,6 @@
 📫 How to reach me:   
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
-![Python-Logo](https://github.com/user-attachments/assets/097f4728-5991-4414-927e-0422850d464d)  
 
 > :warning: **Warning:** Do not push the big red button.
 
