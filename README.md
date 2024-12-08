@@ -6,6 +6,13 @@
 📫 How to reach me:   
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
+
+> :warning: **Warning:** Do not push the big red button.
+
+> :memo: **Note:** Sunrises are beautiful.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.
+
 ![image](https://github.com/user-attachments/assets/cd1e1988-a7a9-4742-bc28-ca531c4669e1)
 
 # Languages, Tools and Frameworks   
