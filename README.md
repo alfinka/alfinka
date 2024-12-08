@@ -1,11 +1,12 @@
 # 💫About Me :
-👋 Hi, I’m @alfinka 
+👋 Hi, I’m @alfinka   
 👀 I’m interested in MySQL, Python, ChatGPT, Geminy, Copilot, C/C++, R, PHP, HTML/CSS  
-🌱 I’m currently learning  Python 
+🌱 I’m currently learning  Python  
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me:   
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
+![Python-Logo](https://github.com/user-attachments/assets/097f4728-5991-4414-927e-0422850d464d)  
 
 > :warning: **Warning:** Do not push the big red button.
 
