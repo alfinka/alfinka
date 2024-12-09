@@ -4,7 +4,7 @@
 🌱 I’m currently learning new IT skills as Python, AI, Databases, SQL, AI...      
 💞️ I’m looking to collaborate on IT projects as junior Data Analyst   
 📫 How to reach me:   
-⚡ Fun fact: I have a lot of time.  
+⚡ Fun fact: I have a lot of time 😎😂    
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
