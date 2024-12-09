@@ -1,8 +1,8 @@
 # 💫About Me :
-👋 Hi, I’m @alfinka   
+👋 Hi, I’m @alfinka, I love learning. I am looking for new challenges.     
 👀 I’m interested in MySQL, Python, ChatGPT, Gemini, Copilot, C/C++, R, PHP, HTML/CSS  
-🌱 I’m currently learning  Python, AI, Databases    
-💞️ I’m looking to collaborate on ...  
+🌱 I’m currently learning  Python, AI, Databases, SQL, AI    
+💞️ I’m looking to collaborate on IT projects as junior Data Analyst 
 📫 How to reach me:   
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
