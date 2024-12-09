@@ -2,10 +2,9 @@
 👋 Hi, I’m @alfinka, I love learning. I am looking for new challenges.     
 👀 I’m interested in MySQL, Python, ChatGPT, Gemini, Copilot, C/C++, R, PHP, HTML/CSS  
 🌱 I’m currently learning  Python, AI, Databases, SQL, AI    
-💞️ I’m looking to collaborate on IT projects as junior Data Analyst 
+💞️ I’m looking to collaborate on IT projects as junior Data Analyst   
 📫 How to reach me:   
-😄 Pronouns: ...  
-⚡ Fun fact: ...  
+⚡ Fun fact: I have a lot of time.  
 
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
