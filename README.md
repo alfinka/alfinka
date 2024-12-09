@@ -22,6 +22,11 @@
 <img align="left" alt="nosql" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-nosql.png" />
 <img align="left" alt="python" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-python.png" />
 <img align="left" alt="R" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-r.png" />      
+<img align="left" alt="SQL" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-sql.png" />  
+<img align="left" alt="Anaconda IDE" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-anaconda.png" />
+<img align="left" alt="Jetbrains Datalore" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-datalore.png" />  
+<img align="left" alt="Microsoft Excel" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-excel.png" />  
+<img align="left" alt="Notepad++" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-notepadplu.png" />  
 
 
 # 💻Tech Stack
