@@ -3,7 +3,7 @@
 👀 I’m interested in MySQL, Python, ChatGPT, Gemini, Copilot, C/C++, R, PHP, HTML/CSS  
 🌱 I’m currently learning new IT skills as Python, AI, Databases, SQL, AI...      
 💞️ I’m looking to collaborate on IT projects as junior Data Analyst   
-📫 How to reach me:   
+📫 How to reach me: alfaninky@gmail.com  
 ⚡ Fun fact: I have a lot of time 😎😂    
 
 # My Socials
