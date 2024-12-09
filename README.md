@@ -7,13 +7,6 @@
 😄 Pronouns: ...  
 ⚡ Fun fact: ...  
 
-> :warning: **Warning:** Do not push the big red button.
-
-> :memo: **Note:** Sunrises are beautiful.
-
-> :bulb: **Tip:** Remember to appreciate the little things in life.
-
-
 # Languages, Tools and Frameworks   
 <img align="left" alt="C" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-c.png" />
 <img align="left" alt="html5" width="45px" src="https://github.com/miroslav-reiter/miroslav-reiter/blob/main/loga/logo-html5.png" />
