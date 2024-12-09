@@ -1,7 +1,7 @@
 # 💫About Me :
 👋 Hi, I’m @alfinka   
-👀 I’m interested in MySQL, Python, ChatGPT, Geminy, Copilot, C/C++, R, PHP, HTML/CSS  
-🌱 I’m currently learning  Python  
+👀 I’m interested in MySQL, Python, ChatGPT, Gemini, Copilot, C/C++, R, PHP, HTML/CSS  
+🌱 I’m currently learning  Python, AI, Databases    
 💞️ I’m looking to collaborate on ...  
 📫 How to reach me:   
 😄 Pronouns: ...  
